@@ -21,7 +21,6 @@ This project presents an interactive Sales Dashboard built in Power BI to analyz
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](super sales dashboard part1.png)
-![Dashboard Preview](super sales dashboard part2.png)
 
 ## 📊 Key Insights
 
